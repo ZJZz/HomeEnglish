@@ -1,0 +1,56 @@
+[Object#1]
+Name=picture
+Rect=310 62 414 154
+
+[Object#2]
+Name=wardrobe
+Rect=631 97 859 137
+
+[Object#3]
+Name=lamp
+Rect=169 217 232 287
+
+[Object#4]
+Name= sweater
+Rect=737 284 819 400
+
+[Object#5]
+Name=clock
+Rect=168 294 209 351
+
+[Object#6]
+Name=flower
+Rect=52 308 106 347
+
+[Object#7]
+Name=pyjamas
+Rect=265 351 378 401
+
+[Object#8]
+Name=baseball_cap
+Rect=712 439 797 555
+
+[Object#9]
+Name=socks
+Rect=104 450 137 514
+
+[Object#10]
+Name=toys
+Rect=348 463 505 561
+
+[Object#11]
+Name=shoes
+Rect=540 482 619 548
+
+[Object#12]
+Name=teddy_bear
+Rect=834 539 869 564
+
+[Object#13]
+Name=ball
+Rect=235 581 342 687
+
+[Object#14]
+Name=desk
+Rect=526 648 1023 767
+

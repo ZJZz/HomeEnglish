@@ -1,0 +1,48 @@
+[Object#1]
+Name=picture
+Rect=425 0 588 56
+
+[Object#2]
+Name=book
+Rect=776 39 849 137
+
+[Object#3]
+Name=flower
+Rect=28 78 90 162
+
+[Object#4]
+Name=camera
+Rect=412 88 479 143
+
+[Object#5]
+Name=telephone
+Rect=101 167 185 218
+
+[Object#6]
+Name=television
+Rect=72 230 195 348
+
+[Object#7]
+Name=camcorder
+Rect=342 242 378 294
+
+[Object#8]
+Name=cat
+Rect=545 243 692 328
+
+[Object#9]
+Name=lamp
+Rect=790 395 985 573
+
+[Object#10]
+Name=sweets
+Rect=318 481 437 561
+
+[Object#11]
+Name=tape
+Rect=499 515 553 557
+
+[Object#12]
+Name=ball
+Rect=748 630 879 760
+

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>BtnBall0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{81, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 82}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{617, 555}, {81, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BtnBall0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{81, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 82}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{534, 555}, {81, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BtnBall0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{81, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 82}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{451, 555}, {81, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>BtnBall0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {81, 82}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{81, 82}</string>
+			<key>spriteSourceSize</key>
+			<string>{81, 82}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{368, 555}, {81, 82}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>JaugeBody0001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{51, 298}, {181, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -149}</string>
+			<key>spriteSize</key>
+			<string>{181, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{283, 377}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{185, 555}, {181, 79}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>JaugeBody0002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{51, 252}, {181, 125}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -126}</string>
+			<key>spriteSize</key>
+			<string>{181, 125}</string>
+			<key>spriteSourceSize</key>
+			<string>{283, 377}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 555}, {181, 125}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>JaugeBody0003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{51, 196}, {181, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -98}</string>
+			<key>spriteSize</key>
+			<string>{181, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{283, 377}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{836, 2}, {181, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>JaugeBody0004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{51, 148}, {181, 229}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -74}</string>
+			<key>spriteSize</key>
+			<string>{181, 229}</string>
+			<key>spriteSourceSize</key>
+			<string>{283, 377}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{653, 2}, {181, 229}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>JaugeBody0005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{51, 88}, {181, 289}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -44}</string>
+			<key>spriteSize</key>
+			<string>{181, 289}</string>
+			<key>spriteSourceSize</key>
+			<string>{283, 377}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{470, 2}, {181, 289}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>JaugeBody0006.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{51, 10}, {181, 367}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{181, 367}</string>
+			<key>spriteSourceSize</key>
+			<string>{283, 377}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{287, 2}, {181, 367}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>JaugeWindow.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {283, 551}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{283, 551}</string>
+			<key>spriteSourceSize</key>
+			<string>{283, 551}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {283, 551}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+	</dict>
+</dict>
+</plist>

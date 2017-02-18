@@ -1,0 +1,65 @@
+[Object#1]
+Name=cloud
+Rect=0 0 193 55
+
+[Object#2]
+Name=sky
+Rect=769 0 1024 135
+
+[Object#3]
+Name=tree
+Rect=504 12 757 151
+
+[Object#4]
+Name=cow
+Rect=220 102 304 165
+
+[Object#5]
+Name=tomato
+Rect=653 299 719 370
+
+[Object#6]
+Name=onion
+Rect=488 312 626 414
+
+[Object#7]
+Name=carrot
+Rect=813 334 885 490
+
+[Object#8]
+Name=lemon
+Rect=330 343 389 404
+
+[Object#9]
+Name=radish
+Rect=735 346 791 421
+
+[Object#10]
+Name=apple
+Rect=171 385 235 441
+
+[Object#11]
+Name=orange_fruit
+Rect=66 416 152 478
+
+[Object#12]
+Name=grapes
+Rect=285 422 424 506
+
+[Object#13]
+Name=pumpkin
+Rect=226 515 427 683
+
+[Object#14]
+Name=potato
+Rect=793 546 1024 736
+
+[Object#15]
+Name=flower
+Rect=528 597 760 758
+
+[Object#16]
+Name=grass
+Rect=0 708 402 768
+
+

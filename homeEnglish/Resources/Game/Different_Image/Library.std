@@ -1,0 +1,55 @@
+[Object#1]
+Name=Clock
+Rect=506 6 564 49
+
+[Object#2]
+Name=Blackboard
+Rect=93 13 228 81
+
+[Object#3]
+Name=Flower
+Rect=793 34 886 85
+
+[Object#4]
+Name=Computer
+Rect=391 77 457 135
+
+[Object#5]
+Name=Piano
+Rect=613 120 807 202
+
+[Object#6]
+Name=Trumpet
+Rect=872 152 922 280
+
+[Object#7]
+Name=Chair
+Rect=392 182 543 368
+
+[Object#8]
+Name=Exercise_book
+Rect=93 236 214 298
+
+[Object#9]
+Name=Book
+Rect=909 327 1024 565
+
+[Object#10]
+Name=Paintbrush
+Rect=364 368 446 452
+
+[Object#11]
+Name=Ball
+Rect=647 419 719 491
+
+[Object#12]
+Name=Pen
+Rect=474 472 543 508
+
+[Object#13]
+Name=Paint
+Rect=319 582 382 636
+
+[Object#14]
+Name=Puzzle
+Rect=800 665 984 756

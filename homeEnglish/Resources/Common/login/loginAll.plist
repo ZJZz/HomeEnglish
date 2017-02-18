@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>BtnCheck0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 1}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>BtnCheck0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{500, 1}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>BtnCheck0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{346, 1}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>BtnCheck0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{115, 1}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>BtnCheck0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{423, 1}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>BtnCheck0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{192, 1}, {76, 76}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {76, 76}}</string>
+			<key>sourceSize</key>
+			<string>{76, 76}</string>
+		</dict>
+		<key>BtnName.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{353, 662}, {401, 114}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {401, 114}}</string>
+			<key>sourceSize</key>
+			<string>{401, 114}</string>
+		</dict>
+		<key>BtnScroll0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{39, 1}, {37, 102}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 102}}</string>
+			<key>sourceSize</key>
+			<string>{37, 102}</string>
+		</dict>
+		<key>BtnScroll0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {37, 102}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 102}}</string>
+			<key>sourceSize</key>
+			<string>{37, 102}</string>
+		</dict>
+		<key>BtnScroll0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 1}, {37, 102}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 102}}</string>
+			<key>sourceSize</key>
+			<string>{37, 102}</string>
+		</dict>
+		<key>body0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{315, 120}, {338, 502}}</string>
+			<key>offset</key>
+			<string>{-17, -39}</string>
+			<key>sourceColorRect</key>
+			<string>{{41, 88}, {338, 502}}</string>
+			<key>sourceSize</key>
+			<string>{454, 600}</string>
+		</dict>
+		<key>body0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{654, 120}, {342, 541}}</string>
+			<key>offset</key>
+			<string>{-52, 8.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{4, 21}, {342, 541}}</string>
+			<key>sourceSize</key>
+			<string>{454, 600}</string>
+		</dict>
+		<key>body0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{407, 1158}, {406, 565}}</string>
+			<key>offset</key>
+			<string>{7, -16.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{31, 34}, {406, 565}}</string>
+			<key>sourceSize</key>
+			<string>{454, 600}</string>
+		</dict>
+		<key>body0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1158}, {405, 558}}</string>
+			<key>offset</key>
+			<string>{24.5, 21}</string>
+			<key>sourceColorRect</key>
+			<string>{{49, 0}, {405, 558}}</string>
+			<key>sourceSize</key>
+			<string>{454, 600}</string>
+		</dict>
+		<key>body0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 662}, {351, 495}}</string>
+			<key>offset</key>
+			<string>{-50.5, 2.5}</string>
+			<key>sourceColorRect</key>
+			<string>{{1, 50}, {351, 495}}</string>
+			<key>sourceSize</key>
+			<string>{454, 600}</string>
+		</dict>
+		<key>body0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 120}, {313, 512}}</string>
+			<key>offset</key>
+			<string>{-43.5, -27}</string>
+			<key>sourceColorRect</key>
+			<string>{{27, 71}, {313, 512}}</string>
+			<key>sourceSize</key>
+			<string>{454, 600}</string>
+		</dict>
+		<key>loginBodyBt0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{696, 1}, {118, 118}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 118}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>loginBodyBt0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{815, 1}, {118, 118}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 118}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>loginBodyBt0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{577, 1}, {118, 118}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {118, 118}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+	</dict>
+</dict>
+</plist>

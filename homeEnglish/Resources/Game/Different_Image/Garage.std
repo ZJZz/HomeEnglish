@@ -1,0 +1,67 @@
+[Object#1]
+Name=sky
+Rect=367 0 573 65
+
+[Object#2]
+Name=paint
+Rect=69 10 141 89
+
+[Object#3]
+Name=picture
+Rect=715 14 828 124
+
+[Object#4]
+Name=baseball_cap
+Rect=927 29 981 113
+
+[Object#5]
+Name=sponge
+Rect=541 91 589 113
+
+[Object#6]
+Name=Paintbrush
+Rect=100 138 140 199
+
+[Object#7]
+Name=Hoover
+Rect=467 169 509 267
+
+[Object#8]
+Name=washing_machine
+Rect=560 176 617 205
+
+[Object#9]
+Name=toothbrush
+Rect=0 185 34 271
+
+[Object#10]
+Name=bike
+Rect=682 187 934 303
+
+[Object#11]
+Name=Trumpet
+Rect=248 242 298 370
+
+[Object#12]
+Name=motorbike
+Rect=367 314 624 626
+
+[Object#13]
+Name=bucket
+Rect=246 402 348 527
+
+[Object#14]
+Name=flower
+Rect=0 456 128 534
+
+[Object#15]
+Name=car
+Rect=638 473 1024 757
+
+[Object#16]
+Name=broom
+Rect=217 545 273 614
+
+[Object#17]
+Name=shoes
+Rect=278 687 399 768

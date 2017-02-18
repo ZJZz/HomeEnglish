@@ -1,0 +1,65 @@
+[Object#1]
+Name=picture
+Rect=10 12 73 103
+
+[Object#2]
+Name=flower
+Rect=286 28 338 58
+
+[Object#3]
+Name=water
+Rect=501 130 551 196
+
+[Object#4]
+Name=sponge
+Rect=415 153 470 182
+
+[Object#5]
+Name=knife
+Rect=751 168 802 231
+
+[Object#6]
+Name=bread
+Rect=78 187 120 240
+
+[Object#7]
+Name=dishwasher
+Rect=195 220 367 395
+
+[Object#8]
+Name=book
+Rect=961 296 1024 401
+
+[Object#9]
+Name=dog
+Rect=721 317 876 454
+
+[Object#10]
+Name=coffee
+Rect=622 499 729 618
+
+[Object#11]
+Name=Chair
+Rect=0 503 208 768
+
+[Object#12]
+Name=flower
+Rect=462 516 565 608
+
+[Object#13]
+Name=glass
+Rect=370 546 430 625
+
+[Object#14]
+Name=bowl
+Rect=427 626 607 768
+
+[Object#15]
+Name=plate
+Rect=235 629 402 724
+
+[Object#16]
+Name=ball
+Rect=937 641 1024 735
+
+

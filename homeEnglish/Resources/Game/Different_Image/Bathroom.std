@@ -1,0 +1,60 @@
+[Object#1]
+Name=shower
+Rect=480 37 543 177
+
+[Object#2]
+Name=towel
+Rect=208 122 263 244
+
+[Object#3]
+Name=shampoo
+Rect=598 126 672 211
+
+[Object#4]
+Name=brush
+Rect=107 146 146 228
+
+[Object#5]
+Name=soap
+Rect=686 173 749 203
+
+[Object#6]
+Name=comb
+Rect=70 184 105 229
+
+[Object#7]
+Name=duck
+Rect=772 211 873 295
+
+[Object#8]
+Name=toothbrush
+Rect=103 291 150 340
+
+[Object#9]
+Name=toothpaste
+Rect=217 341 339 383
+
+[Object#10]
+Name=water
+Rect=96 371 112 461
+
+[Object#11]
+Name=chair
+Rect=277 398 504 755
+
+[Object#12]
+Name=toilet
+Rect=819 457 1024 554
+
+[Object#13]
+Name=ball
+Rect=510 464 619 575
+
+[Object#14]
+Name=potty
+Rect=696 527 818 681
+
+[Object#15]
+Name=socks
+Rect=136 675 189 764
+
